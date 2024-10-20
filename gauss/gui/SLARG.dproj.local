@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.196,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\gauss.dfm=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\cramer.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.196,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\gauss.pas=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\cramer.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\cramer.dfm=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\gauss.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.072,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\SLARC.dproj=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\SLARG.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\cramer.pas=C:\Users\Quickemu\Documents\Embarcadero\Studio\Projects\gauss\gui\gauss.pas</Transaction>
+  </Transactions>
+</BorlandProject>
